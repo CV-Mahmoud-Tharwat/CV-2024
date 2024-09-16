@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mahmoud Tharwat - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        .contact-info, .education, .experience, .skills, .certifications, .languages {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mahmoud Tharwat</h1>
+        <div class="contact-info">
+            <p><strong>Address:</strong> Shubra Al Khaima, Qalyubia</p>
+            <p><strong>Phone:</strong> +201027401933</p>
+            <p><strong>Email:</strong> Mahmoudtharwat259@gmail.com</p>
+        </div>
+
+        <h2>Summary</h2>
+        <p>I am a highly motivated and skilled individual working on advancing my career in the field of Legal Consultation and Administrative Management...</p>
+
+        <h2>Skills Highlights</h2>
+        <ul class="skills">
+            <li>Project management</li>
+            <li>Strong decision maker</li>
+            <li>Personnel affairs</li>
+            <li>Payroll management</li>
+            <li>Complex problem solver</li>
+            <li>Microsoft Office (Accredited)</li>
+            <li>...more skills</li>
+        </ul>
+
+        <h2>Experience</h2>
+        <div class="experience">
+            <h3>Human Resource Specialist - Tecno Pipe for Metal and Plastic Industry (2023 - Present)</h3>
+            <ul>
+                <li>Income Taxes</li>
+                <li>Salaries</li>
+                <li>Social Security</li>
+                <li>...more responsibilities</li>
+            </ul>
+            <h3>Human Resource Specialist - Al-Amal Specialist Hospital (2021 - 2022)</h3>
+            <ul>
+                <li>Recruitment, selection</li>
+                <li>Payroll management</li>
+                <li>...more responsibilities</li>
+            </ul>
+            <!-- Add other experiences similarly -->
+        </div>
+
+        <h2>Education</h2>
+        <ul class="education">
+            <li><strong>Bachelor of Law</strong>, Ain Shams University (2020)</li>
+            <li><strong>Public Law Diploma</strong>, Banha University (2022)</li>
+        </ul>
+
+        <h2>Languages</h2>
+        <ul class="languages">
+            <li>Arabic - Native</li>
+            <li>English - Good</li>
+        </ul>
+
+        <h2>Certifications</h2>
+        <ul class="certifications">
+            <li>IC3 for Digital Literacy</li>
+            <li>Human Development Diploma</li>
+            <li>...more certifications</li>
+        </ul>
+    </div>
+</body>
+</html>
